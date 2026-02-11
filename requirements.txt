@@ -1,0 +1,10 @@
+groq
+huggingface_hub
+transformers
+sentence-transformers
+pandas 
+numpy 
+unstructured
+chromadb
+semantic-router
+streamlit
